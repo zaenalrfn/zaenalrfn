@@ -7,6 +7,8 @@ HTML
 CSS
 JAVASCRIPT
 BOOTSTRAP 5
+
+<img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/hai-penguin.gif">
 <!--
 **zaenalrfn/zaenalrfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
