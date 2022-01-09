@@ -8,7 +8,8 @@
 ### JAVASCRIPT
 ### BOOTSTRAP 5
 <img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/HTML_Logo.png" width="50" height="50"><img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/1200px-CSS3_logo_and_wordmark.svg.png" width="37" height="50">
-### CSS
+<img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/1200px-Javascript-shield.svg.png" width="35" height="50">
+<img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/1200px-Javascript-shield.svg.png" width="35" height="50">
 <img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/hai-penguin.gif">
 <!--
 **zaenalrfn/zaenalrfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
