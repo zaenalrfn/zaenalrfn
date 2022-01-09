@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+MY NAME IS ZAENAL ARIFIN
+
+My skills:
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP 5
 <!--
 **zaenalrfn/zaenalrfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
