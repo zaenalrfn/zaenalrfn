@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-MY NAME IS ZAENAL ARIFIN
+### MY NAME IS ZAENAL ARIFIN
 
-My skills:
-HTML
-CSS
-JAVASCRIPT
-BOOTSTRAP 5
+### My skills:
+### HTML
+### CSS
+### JAVASCRIPT
+### BOOTSTRAP 5
 
 <img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/hai-penguin.gif">
 <!--
