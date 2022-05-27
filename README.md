@@ -11,6 +11,7 @@
 <img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/1200px-Javascript-shield.svg.png" width="35" height="50">
 <img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/bootstrap-logo.svg" width="50" height="40"></br></br>
 <img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/hai-penguin.gif">
+<img src="https://github.com/zaenalrfn/zaenalrfn/blob/main/Svelte_Logo.svg">
 
 
 ### 🅵🆁🅴🅴🅻🅰🅽🅲🅴
