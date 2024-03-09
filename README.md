@@ -33,7 +33,8 @@ Orang sederhana yang suka nulis code
 
 ### Let's connect!
 <p>
-    <a href="" target="blank"><img src="" /></a>
+    <a href="https://www.linkedin.com/in/zaenalarifin31/" target="blank"><img src="![image](https://github.com/zaenalrfn/zaenalrfn/assets/79745345/d2edfc96-b143-496e-a6a4-96b60f032bff)
+" /></a>
     <a href="" target="blank"><img src="" /></a>
     <a href="" target="blank"><img src="" /></a>
     <a href="" target="blank"><img src="" /></a>
