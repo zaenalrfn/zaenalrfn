@@ -3,7 +3,10 @@
 Orang sederhana yang suka nulis code
 
 ### 🅵🆁🅴🅴🅻🅰🅽🅲🅴
+## Fiverr
 ### https://www.fiverr.com/zaenal_rfn
+## Upwork
+### https://www.upwork.com/freelancers/~01a77c7155f556dfed?mp_source=share
 
 ### Stats:
 <details>
